@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>template_ini.cpp</file>
+        <file>template_ini.h</file>
+        <file>readme.txt</file>
+    </qresource>
+</RCC>
